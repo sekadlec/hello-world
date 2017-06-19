@@ -1,5 +1,4 @@
 # hello-world
-
 _A place where I store ideas, resources, or even share and discuss things with others._
 
 Hi Humans, hi Hubot!
